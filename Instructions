@@ -18,4 +18,4 @@ agaaaainkkkkkkkkkkk
  
 #sudo ufw status
 #sudo ufw allow 8000
- 
+#SCM polling changed 
